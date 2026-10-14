@@ -1,0 +1,2 @@
+This is input.txt file
+it has to be in upper case in output.txt
